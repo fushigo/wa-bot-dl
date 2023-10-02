@@ -1,6 +1,6 @@
 # Whatsapp Bot DL
 
-This Discord bot is specifically designed for playing music on your Discord server, enter a music song or url on query
+This Whatsapp Bot is specifically designed for downloading Media and Make Stickers, dont forget for enter a query
 **_Whatsapp Bot Create with NodeJs using library [Baileys](https://github.com/WhiskeySockets/Baileys)_**
 
 ## CHANGE
