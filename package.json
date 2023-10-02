@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@tobyg74/tiktok-api-dl": "^1.0.4",
+    "@whiskeysockets/baileys": "^6.4.0",
+    "axios": "^1.5.0",
+    "bard-ai": "^2.0.3",
+    "googlebard": "^1.0.7",
+    "i-downloader": "^0.0.1",
+    "insta-dl": "^1.0.2",
+    "instagram-get-url": "^1.0.2",
+    "or": "^0.2.0",
+    "pino": "^8.15.0",
+    "qrcode-terminal": "^0.12.0",
+    "wa-sticker-formatter": "^4.4.4"
+  }
+}
